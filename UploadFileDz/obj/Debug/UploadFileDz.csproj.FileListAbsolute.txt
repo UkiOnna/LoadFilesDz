@@ -1,0 +1,10 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\obj\Debug\UploadFileDz.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\bin\Debug\UploadFileDz.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\bin\Debug\UploadFileDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\bin\Debug\UploadFileDz.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\bin\Debug\Dropbox.Api.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\bin\Debug\Newtonsoft.Json.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\bin\Debug\Dropbox.Api.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\bin\Debug\Newtonsoft.Json.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\obj\Debug\UploadFileDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\UploadFileDz\UploadFileDz\obj\Debug\UploadFileDz.pdb
